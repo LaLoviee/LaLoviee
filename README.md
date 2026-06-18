@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://media.giphy.com/media/qgQUggCGVNstFta5mZ/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZibmZxYWJiNnBibGMxbjY3MnV3ZnRtNXJ0ODVjdzQ3cWJ1Zms0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGgC8JjZfLurTJSxQ8/giphy.gif)" alt="Coding Animation" width="600">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZibmZxYWJiNnBibGMxbjY3MnV3ZnRtNXJ0ODVjdzQ3cWJ1Zms0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGgC8JjZfLurTJSxQ8/giphy.gif" alt="Coding Animation" width="600">
 
 # 💫 Hi, I'm Julian (@0xJust4Sec)
 
