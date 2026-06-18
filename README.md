@@ -12,8 +12,8 @@
     </td>
     <td align="center" valign="middle" width="40%">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaLoviee&repo=LaLoviee&theme=date_night" alt="Alternative Badge" style="display:none;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZibmZxYWJiNnBibGMxbjY3MnV3ZnRtNXJ0ODVjdzQ3cWJ1Zms0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGgC8JjZfLurTJSxQ8/giphy.gif" width="220" alt="Coding Animation" style="display:none;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZibmZxYWJiNnBibGMxbjY3MnV3ZnRtNXJ0ODVjdzQ3cWJ1Zms0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGgC8JjZfLurTJSxQ8/giphy.gif" width="220" alt="Coding GIF">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZucGhtYnYzdzhyZmxyZWdneWx6cWlkemR4eXJ3eTBnZDNwMW10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ILx3tjWgaP0cjUf0Wx/giphy.gif" width="220" alt="Coding Animation" style="display:none;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZucGhtYnYzdzhyZmxyZWdneWx6cWlkemR4eXJ3eTBnZDNwMW10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ILx3tjWgaP0cjUf0Wx/giphy.gif" width="220" alt="Coding GIF">
     </td>
   </tr>
 </table>
